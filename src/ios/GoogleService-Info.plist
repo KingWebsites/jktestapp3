@@ -7,34 +7,34 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>451246250052-fdl753ba7je5dt1q2cp8ke2dk5i3gdrg.apps.googleusercontent.com</string>
+	<string>1009445765800-26ahh4r1lv1a7hvk2sdtfotgcc2oqj86.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.451246250052-fdl753ba7je5dt1q2cp8ke2dk5i3gdrg</string>
+	<string>com.googleusercontent.apps.1009445765800-26ahh4r1lv1a7hvk2sdtfotgcc2oqj86</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBdjwYtACH3CubvHnliQlvUe0Yx5ZOgiow</string>
+	<string>AIzaSyC78m_31idzrI5ccygU5u12-ZgJZ8HWnnU</string>
 	<key>GCM_SENDER_ID</key>
-	<string>451246250052</string>
+	<string>1009445765800</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.kingwebsites.testapp</string>
 	<key>PROJECT_ID</key>
-	<string>talkfreely-51da7</string>
+	<string>sussex-developers-app</string>
 	<key>STORAGE_BUCKET</key>
-	<string>talkfreely-51da7.appspot.com</string>
+	<string>sussex-developers-app.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
 	<false></false>
 	<key>IS_APPINVITE_ENABLED</key>
-	<true></true>
+	<false></false>
 	<key>IS_GCM_ENABLED</key>
 	<true></true>
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:451246250052:ios:d9efbbca893ea92e</string>
+	<string>1:1009445765800:ios:d9efbbca893ea92e</string>
 	<key>DATABASE_URL</key>
-	<string>https://talkfreely-51da7.firebaseio.com</string>
+	<string>https://sussex-developers-app.firebaseio.com</string>
 </dict>
 </plist>
