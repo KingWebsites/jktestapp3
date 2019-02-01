@@ -1,58 +1,27 @@
 {
   "project_info": {
-    "project_number": "451246250052",
-    "firebase_url": "https://talkfreely-51da7.firebaseio.com",
-    "project_id": "talkfreely-51da7",
-    "storage_bucket": "talkfreely-51da7.appspot.com"
+    "project_number": "1009445765800",
+    "firebase_url": "https://sussex-developers-app.firebaseio.com",
+    "project_id": "sussex-developers-app",
+    "storage_bucket": "sussex-developers-app.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:451246250052:android:d9efbbca893ea92e",
+        "mobilesdk_app_id": "1:1009445765800:android:d9efbbca893ea92e",
         "android_client_info": {
           "package_name": "com.kingwebsites.testapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "451246250052-j8jpkoj748dirl0bcblglnshp6lceetn.apps.googleusercontent.com",
+          "client_id": "1009445765800-atal1t4s2ai08dcj25ggmn15eifqh3ah.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC8NYxslZnosZUXVULUxT1WAtvZosa87_4"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 1
-        },
-        "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:451246250052:android:7bb6ca311a8a19fd",
-        "android_client_info": {
-          "package_name": "com.talkfreely.build"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "451246250052-j8jpkoj748dirl0bcblglnshp6lceetn.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyC8NYxslZnosZUXVULUxT1WAtvZosa87_4"
+          "current_key": "AIzaSyCK1ExLyk7uyrRALT0UxYPisBlxkhExWe8"
         }
       ],
       "services": {
